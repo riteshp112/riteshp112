@@ -16,5 +16,7 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=riteshp112&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+[![Check out riteshp112's profile on stardev.io](https://stardev.io/developers/riteshp112/badge/languages/locality.svg)](https://stardev.io/developers/riteshp112)
 ---
 [![](https://visitcount.itsvg.in/api?id=riteshp112&icon=0&color=0)](https://visitcount.itsvg.in)
